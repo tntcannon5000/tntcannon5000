@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=tntcannon5000&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=tntcannon5000&color=orange)
 
 <!--
 **tntcannon5000/tntcannon5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
