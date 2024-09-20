@@ -6,7 +6,7 @@ Lorem Ipsum (i'll fill this in later)
 ## 🔥 Featured Repositories
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM&theme=orange)](https://github.com/tntcannon5000/Screening-LLM)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=UERK-Bot&theme=orange)](https://github.com/tntcannon5000/UERK-Bot)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=repo3&theme=orange)](https://github.com/tntcannon5000/repo3)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DKundu121&repo=JumpKingAtHome&theme=orange)](https://github.com/DKundu121/JumpKingAtHome)
 
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntcannon5000&layout=compact&theme=orange)
