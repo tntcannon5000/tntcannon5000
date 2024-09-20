@@ -1,23 +1,37 @@
-# 👋 Hi, I'm Niranjan! Welcome to my profile!
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1 align="center"><img src="https://cdn.discordapp.com/attachments/1263446955820847156/1286709660027453553/ezgif.com-crop_2.gif?ex=66eee540&is=66ed93c0&hm=ed59eff2c0fcf233c966af89bc13028ea5c33b6d9ed7be2e0a41e45d8ab29d17&" width="50"> Hi, I'm Niranjan! Welcome to my profile!</h1>
+    </summary>
+  </ul>
+</div>
 
-## 🍊 About Me
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1 🍊 About Me 🍊 </h1>
+    </summary>
+  </ul>
+</div>
+
 Lorem Ipsum (i'll fill this in later)
 
-## 🔥 Featured Repositories
+
+# 🔥 Featured Repositories
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM&theme=orange)](https://github.com/tntcannon5000/Screening-LLM)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=UERK-Bot&theme=orange)](https://github.com/tntcannon5000/UERK-Bot)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DKundu121&repo=JumpKingAtHome&theme=orange)](https://github.com/DKundu121/JumpKingAtHome)
 
-## 📊 Most Used Languages
+# 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntcannon5000&layout=compact&theme=orange)
 
-## 🛠️ Tools I Use
+# 🛠️ Tools I Use
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 📫 Contact Me
+# 📫 Contact Me
 <p>
   <a href="https://www.linkedin.com/in/nnm22/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
