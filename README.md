@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-Lorem Ipsum (i'll fill this in later)
+I'm Niranj(an), I have fun building stuff coming up with ideas for projects or systems and then building them. 
 
 
 # 🔥 Things I've created/contributed to
