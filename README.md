@@ -6,14 +6,6 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-      <h1 🍊 About Me 🍊 </h1>
-    </summary>
-  </ul>
-</div>
-
 I'm Niranj(an), I have fun building stuff coming up with ideas for projects or systems and then building them. 
 
 
