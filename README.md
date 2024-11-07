@@ -10,9 +10,9 @@ I'm a software engineer with good machine learning experience (especially with L
 
 I'm usually building tools for my esports team and community, or working on creative projects. <img src="https://cdn.discordapp.com/attachments/1090302162472534026/1304165901066571826/40-cogs-ezgif.com-resize.gif?ex=672e66a5&is=672d1525&hm=83406df2ef069c307bff6b8ba13c8a73c2d3b3cd88eeb62defc1c57304550ba0&" width="20">
 
-I also enjoy playing games such as CS:GO, The Finals and Asphalt, or survival games like Minecraft and Terraria (which I also work on mods for!). 
+I also enjoy playing games such as CS:GO<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNU9sO1n1aybnZAFAaUnDTHvXShbAhTFAGg&s" width="20">, The Finals<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ygshQQTffdBoeSQDLNZ3341IYT8XqVLAB5dlyJ4aPdskYJXu6i9pfrpCA_t-TaFMWsY&usqp=CAU" width="20"> and Asphalt<img src="https://img.tapimg.net/market/images/d009207ba4244b94addd554f78098bed.jpg/appicon" width="20">, or survival games like Minecraft<img src="https://p1.hiclipart.com/preview/896/990/447/minecraft-hd-icon-mac-pc-minecraft-icon-512-png-icon.jpg" width="20"> and Terraria<img src="https://e7.pngegg.com/pngimages/121/941/png-clipart-terraria-tree-minecraft-video-game-steel-icons-logo-plant-stem-thumbnail.png" width="20"> (which I also work on mods for!).
 
-Currently open to new career opportunities - feel free to reach out on Discord or LinkedIn!
+Currently open to new career opportunities - feel free to reach out on Discord or [LinkedIn](https://www.linkedin.com/in/nnm22/)!
 
 
 # 🔥 Things I've created
