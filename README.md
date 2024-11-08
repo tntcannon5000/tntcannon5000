@@ -15,6 +15,51 @@ I also enjoy playing games such as CS:GO<img src="https://encrypted-tbn0.gstatic
 Currently open to new career opportunities - feel free to reach out on Discord or [LinkedIn](https://www.linkedin.com/in/nnm22/)!
 
 
+
+## 🚀 Featured Projects
+
+<div align="center">
+<a href="https://github.com/tntcannon5000/Screening-LLM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame" width="400"/>
+</a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 1</h3>
+        <div align="center">  
+          <img src="project-screenshot.png" alt="project screenshot" width="400" height="200"/>
+          <br>
+          <p>
+            🔗 <a href="https://github.com/tntcannon5000/Screening-LLM">Repo</a>
+            |
+            🌐 <a href="live-demo-if-any">Live Demo</a>
+          </p>
+          <p>Brief, engaging description of your project and the tech used.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2</h3>
+        <div align="center">
+          <img src="project-screenshot.png" alt="project screenshot" width="400" height="200"/>
+          <br>
+          <p>
+            🔗 <a href="your-repo-link">Repo</a>
+            |
+            🌐 <a href="live-demo-if-any">Live Demo</a>
+          </p>
+          <p>Brief, engaging description of your project and the tech used.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 # 🔥 Things I've created
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM&theme=orange)](https://github.com/tntcannon5000/Screening-LLM)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=UERK-Bot&theme=orange)](https://github.com/tntcannon5000/UERK-Bot)
