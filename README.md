@@ -28,16 +28,16 @@ Currently open to new career opportunities - feel free to reach out on Discord o
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">JumpKing with NEAT!</h3>
         <div align="center">  
-          <img src="project-screenshot.png" alt="project screenshot" width="400" height="200"/>
+          <img src="https://github.com/user-attachments/assets/77ee0345-f1cb-489a-81bf-ea0c042a5bac" alt="Jump King with NEAT" width="703" height="300"/>
           <br>
           <p>
             🔗 <a href="https://github.com/tntcannon5000/Screening-LLM">Repo</a>
             |
             🌐 <a href="live-demo-if-any">Live Demo</a>
           </p>
-          <p>Brief, engaging description of your project and the tech used.</p>
+          <p>I led a team of 5 to implement NEAT into JumpKing with the goal of training a population of neural networks to beat the game!</p>
         </div>
       </td>
       <td width="50%">
