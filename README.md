@@ -20,7 +20,7 @@ Currently open to new career opportunities - feel free to reach out on Discord o
 
 <div align="center">
 <a href="https://github.com/tntcannon5000/Screening-LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
 </a>
 </div>
 
@@ -59,14 +59,9 @@ Currently open to new career opportunities - feel free to reach out on Discord o
 
 
 
-
-# 🔥 Things I've created
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM&theme=orange)](https://github.com/tntcannon5000/Screening-LLM)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=UERK-Bot&theme=orange)](https://github.com/tntcannon5000/UERK-Bot)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DKundu121&repo=JumpKingAtHome&theme=orange)](https://github.com/DKundu121/JumpKingAtHome)
-
 # 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntcannon5000&layout=compact&theme=orange)
+
 
 # 🛠️ Tools I Use
 <p>
