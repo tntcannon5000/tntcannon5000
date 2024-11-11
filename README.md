@@ -51,14 +51,14 @@ Currently open to new career opportunities - feel free to reach out on Discord o
   </table>
 </div>
 <div align="center">
-<a href="https://github.com/tntcannon5000/Screening-LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
+<a href="https://github.com/tntcannon5000/Kaggle-Comps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Kaggle-Comps" width="400"/>
 </a>
 <a href="https://github.com/tntcannon5000/Screening-LLM">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
 </a>
-<a href="https://github.com/tntcannon5000/Screening-LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
+<a href="https://github.com/tntcannon5000/UERK-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=UERK-Bot" width="400"/>
 </a>
 </div>
 
