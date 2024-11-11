@@ -19,12 +19,6 @@ Currently open to new career opportunities - feel free to reach out on Discord o
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/tntcannon5000/Screening-LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
-</a>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td width="50%">
@@ -33,7 +27,7 @@ Currently open to new career opportunities - feel free to reach out on Discord o
           <img src="https://github.com/user-attachments/assets/77ee0345-f1cb-489a-81bf-ea0c042a5bac" alt="Jump King with NEAT" width="703" height="300"/>
           <br>
           <p>
-            🔗 <a href="https://github.com/tntcannon5000/Screening-LLM">Repo</a>
+            🔗 <a href="https://github.com/DebKrKundu121/JumpKingAtHome">Repo</a>
             |
             🌐 <a href="live-demo-if-any">Live Demo</a>
           </p>
@@ -46,7 +40,7 @@ Currently open to new career opportunities - feel free to reach out on Discord o
           <img src="project-screenshot.png" alt="project screenshot" width="400" height="200"/>
           <br>
           <p>
-            🔗 <a href="your-repo-link">Repo</a>
+            🔗 <a href="https://github.com/DebKrKundu121/JumpKingAtHome">Repo</a>
             |
             🌐 <a href="live-demo-if-any">Live Demo</a>
           </p>
@@ -56,7 +50,17 @@ Currently open to new career opportunities - feel free to reach out on Discord o
     </tr>
   </table>
 </div>
-
+<div align="center">
+<a href="https://github.com/tntcannon5000/Screening-LLM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
+</a>
+<a href="https://github.com/tntcannon5000/Screening-LLM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
+</a>
+<a href="https://github.com/tntcannon5000/Screening-LLM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=Screening-LLM" width="400"/>
+</a>
+</div>
 
 
 # 📊 Most Used Languages
