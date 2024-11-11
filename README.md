@@ -28,23 +28,19 @@ Currently open to new career opportunities - feel free to reach out on Discord o
           <br>
           <p>
             🔗 <a href="https://github.com/DebKrKundu121/JumpKingAtHome">Repo</a>
-            |
-            🌐 <a href="live-demo-if-any">Live Demo</a>
           </p>
           <p>I led a team of 5 to implement NEAT into JumpKing with the goal of training a population of neural networks to beat the game!</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Project 2</h3>
+        <h3 align="center">DC-Storage</h3>
         <div align="center">
           <img src="project-screenshot.png" alt="project screenshot" width="400" height="200"/>
           <br>
           <p>
-            🔗 <a href="https://github.com/DebKrKundu121/JumpKingAtHome">Repo</a>
-            |
-            🌐 <a href="live-demo-if-any">Live Demo</a>
+            🔗 <a href="https://github.com/tntcannon5000/DC-Storage">Repo</a>
           </p>
-          <p>Brief, engaging description of your project and the tech used.</p>
+          <p>POC tool to upload an unlimited amount of files to various services with CDNs (such as Telegram)</p>
         </div>
       </td>
     </tr>
