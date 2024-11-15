@@ -15,7 +15,6 @@ I also enjoy playing games such as CS:GO<img src="https://encrypted-tbn0.gstatic
 Currently open to new career opportunities - feel free to reach out on Discord or [LinkedIn](https://www.linkedin.com/in/nnm22/)!
 
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -24,7 +23,7 @@ Currently open to new career opportunities - feel free to reach out on Discord o
       <td width="50%">
         <h3 align="center">JumpKing with NEAT!</h3>
         <div align="center">  
-          <img src="https://github.com/user-attachments/assets/77ee0345-f1cb-489a-81bf-ea0c042a5bac" alt="Jump King with NEAT" width="703" height="300"/>
+          <img src="https://github.com/user-attachments/assets/77ee0345-f1cb-489a-81bf-ea0c042a5bac" alt="Jump King with NEAT" width="703" height="250"/>
           <br>
           <p>
             🔗 <a href="https://github.com/DebKrKundu121/JumpKingAtHome">Repo</a>
@@ -35,12 +34,12 @@ Currently open to new career opportunities - feel free to reach out on Discord o
       <td width="50%">
         <h3 align="center">DC-Storage</h3>
         <div align="center">
-          <img src="project-screenshot.png" alt="project screenshot" width="400" height="200"/>
+          <img src="https://github.com/user-attachments/assets/b99fc698-1ac7-4351-9476-2d9c5ce6a070" alt="project screenshot" width="703" height="250"/>
           <br>
           <p>
             🔗 <a href="https://github.com/tntcannon5000/DC-Storage">Repo</a>
           </p>
-          <p>POC tool to upload an unlimited amount of files to various services with CDNs (such as Telegram)</p>
+          <p>POC tool to upload an unlimited amount of files to various services with CDNs simultaneously (such as Telegram)</p>
         </div>
       </td>
     </tr>
