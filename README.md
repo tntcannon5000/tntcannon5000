@@ -1,9 +1,9 @@
 
-  <ul align="left" style="list-style: none;">
-    <summary>
-      <h1 align="center"><img src="https://cdn.discordapp.com/attachments/1090302162472534026/1304151133404794940/ezgif.com-crop_3.gif?ex=672e58e4&is=672d0764&hm=13e9fa7940db58ddd68bcf694c3558858f9663c6092a9b0cb8543996105f32b3&" width="50"> Hi, I'm Niranjan! Welcome to my profile!</h1>
-    </summary>
-  </ul>
+<div>
+  <h1 align="left">
+    <img src="https://cdn.discordapp.com/attachments/1090302162472534026/1304151133404794940/ezgif.com-crop_3.gif?ex=672e58e4&is=672d0764&hm=13e9fa7940db58ddd68bcf694c3558858f9663c6092a9b0cb8543996105f32b3&" width="50"> 
+    Hi, I'm Niranjan! Welcome to my profile!
+  </h1>
 </div>
 
 I'm a software engineer with good machine learning experience (especially with LLMs!) and experience working across the full stack. 
