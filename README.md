@@ -12,7 +12,7 @@ I'm usually building tools for my esports team and community, or working on crea
 
 I also enjoy developing mods for survival games like Minecraft <img src="https://p1.hiclipart.com/preview/896/990/447/minecraft-hd-icon-mac-pc-minecraft-icon-512-png-icon.jpg" width="16"> and Terraria<img src="https://e7.pngegg.com/pngimages/121/941/png-clipart-terraria-tree-minecraft-video-game-steel-icons-logo-plant-stem-thumbnail.png" width="16">.
 
-Currently open to new career opportunities - feel free to reach out on Discord or [LinkedIn](https://www.linkedin.com/in/nnm22/)!
+Currently open to new career opportunities - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nnm22/) or Discord!
 
 
 ## 🚀 Featured Projects
