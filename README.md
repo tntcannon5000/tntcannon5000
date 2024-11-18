@@ -36,12 +36,12 @@ I also enjoy developing mods for survival games like Minecraft <img src="https:/
       <td width="50%">
         <h3 align="center">DC-Storage</h3>
         <div align="center">
-          <img src="https://github.com/user-attachments/assets/b99fc698-1ac7-4351-9476-2d9c5ce6a070" alt="project screenshot" width="703" height="250"/>
+          <img src="https://github.com/user-attachments/assets/cb77bdb1-50a9-44c0-94d0-9a2c9da9d70f" alt="project screenshot" width="703" height="250"/>
           <br>
           <p>
             🔗 <a href="https://github.com/tntcannon5000/DC-Storage">Repo</a>
           </p>
-          <p>POC tool to upload an unlimited amount of files to various services with CDNs simultaneously (such as Telegram)</p>
+          <p>POC tool to store an unlimited amount of files to various services with CDNs simultaneously (such as Telegram)</p>
         </div>
       </td>
     </tr>
@@ -58,7 +58,6 @@ I also enjoy developing mods for survival games like Minecraft <img src="https:/
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tntcannon5000&repo=UERK-Bot" width="400"/>
 </a>
 </div>
-
 
 ## 🛠️ My Tech Stack
 
