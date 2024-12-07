@@ -116,3 +116,4 @@ I also enjoy developing mods for survival games like Minecraft <img src="https:/
 </p>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=tntcannon5000&color=blue)
